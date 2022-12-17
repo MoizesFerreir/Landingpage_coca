@@ -4,3 +4,5 @@ Utilizei as tecnologias:
 
 *CSS
 *HTML
+
+Falta implementar a responsividade!
